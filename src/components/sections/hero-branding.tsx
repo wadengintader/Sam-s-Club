@@ -62,7 +62,7 @@ const HeroBranding = () => {
         <div className="relative">
             <h1 className="text-[21px] md:text-[27px] font-extrabold leading-tight tracking-tight flex items-center justify-center gap-x-2 flex-wrap font-poppins">
             <span className="text-[#182C54]">Unlock</span>
-            <span className="text-[#0053e2]">Walmart Rewards</span>
+            <span className="text-[#0053e2]">Sam's Club Rewards</span>
             <div className="flex items-center -ml-1">
               <Gift className="w-6 h-6 text-[#0053e2] fill-transparent" />
             </div>

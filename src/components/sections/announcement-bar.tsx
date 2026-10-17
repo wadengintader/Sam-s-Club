@@ -58,7 +58,7 @@ const AnnouncementBar = () => {
                 <span className="text-[#ffffff] tabular-nums font-black">
                   {formatTime(timeLeft)}
                 </span>{" "}
-                minutes left to unlock your Walmart reward
+                minutes left to unlock your Sam's Club reward
               </p>
             </div>
         </div>
